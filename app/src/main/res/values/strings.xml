@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">GADSBooks</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="login_sign_up">Login/Sign Up</string>
+    <string name="login_in">Login In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="log_in">Or \nLog in with Email and Password</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="sign_in_with_google_account">Sign In with Google Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="or_sign_up">Or \nSign Up with Google Account</string>
+    <string name="kotlin_logo">Kotlin Logo</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="java">Java</string>
+    <string name="android">Android</string>
+    <string name="firebase">Firebase</string>
+    <string name="title">Title</string>
+    <string name="book_description">Book Description</string>
+    <string name="category">Category</string>
+    <string name="select_image">Select Image</string>
+    <string name="upload">Upload</string>
+    <string name="upload_a_book_to_store">Upload a Book to Store</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="profile">My Account</string>
+    <string name="view">View</string>
+    <string name="the_mastery_of_java">The Mastery of Java</string>
+    <string name="the_mastery_of_kotlin">The Mastery of Kotlin</string>
+    <string name="the_mastery_of_fire">The Mastery of Firebase</string>
+    <string name="the_mastery_of_android">Everything Android</string>
+    <string name="admin">Admin</string>
+    <string name="the_admin">Manage Library</string>
+    <string name="manage">Manage</string>
+    <string-array name="types">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Firebase</item>
+    </string-array>
+</resources>
